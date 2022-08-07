@@ -1,0 +1,64 @@
+{
+  "name": "my-ojas",
+  "version": "0.1.0",
+  "private": true,
+  "homepage": "https://ojas.rocks",
+  "dependencies": {
+    "@types/node": "^15.6.0",
+    "@types/react": "^17.0.6",
+    "@types/react-dom": "^17.0.5",
+    "@types/react-router-dom": "^5.1.7",
+    "@types/styled-components": "^5.1.9",
+    "antd": "^4.10.3",
+    "axios": "^0.21.1",
+    "bn.js": "^5.2.0",
+    "easyqrcodejs": "^4.4.6",
+    "emailjs-com": "^3.2.0",
+    "gatsby": "^4.0.0",
+    "gulp-cli": "^2.3.0",
+    "i18next": "^19.8.4",
+    "i18next-browser-languagedetector": "^6.0.1",
+    "i18next-xhr-backend": "^3.2.2",
+    "react": "^17.0.2",
+    "react-awesome-reveal": "^3.7.1",
+    "react-cookienotice": "^4.0.0",
+    "react-dom": "^17.0.2",
+    "react-ga": "^3.3.0",
+    "react-i18next": "^11.8.5",
+    "react-router-dom": "^5.2.0",
+    "react-scripts": "4.0.3",
+    "styled-components": "^5.2.1",
+    "typescript": "^4.2.4"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject",
+    "predeploy": "yarn build",
+    "deploy": "gh-pages -d build"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "@types/bn.js": "^5.1.0",
+    "@types/pbkdf2": "^3.1.0",
+    "gh-pages": "^3.2.3",
+    "html5-device-mockups": "^3.2.1",
+    "react-device-mockups": "^0.1.10",
+    "types-bn": "^0.0.1"
+  }
+}
