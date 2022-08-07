@@ -1,0 +1,27 @@
+{
+  "title": "Step 1. Get Expo (iOS & Android)",
+  "text": "Essential to break free from centralized Apps delivery. Expo allows you to download and keep updated the App, no need a Store anymore.",
+  "button": [
+    {
+      "title": "Get Expo",
+      "link": "https://shrinke.me/EXPO_Client_Download"
+    },
+  {
+    "title": "Sign Up on Expo",
+    "link" : "https://shrinke.me/Sign_up_Expo",
+    "color": "#fff"
+  }
+],
+  "section": [
+    {
+      "title": "What's Next?",
+      "content": "Download the Expo app. Create an account and log in. Get Ojas app",
+      "icon": "notes.svg"
+    },
+    {
+      "title": "Why this choice?",
+      "content": "Wolves stand apart from Lions and Tigers, because they do not perform in circus.",
+      "icon": "notes.svg"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "title": "Step 2. Get Ojas",
+  "text": "Click on the button down below or scan QR code to get Ojas.",
+  "textinput": "paste email to get invitation",
+  "button": [
+    {
+      "title": "Get Ojas",
+      "link": "https://shrinke.me/GET_Ojas_App"
+    }],
+  "qr":
+  {
+      "link":""
+  }
+}
